@@ -1,0 +1,5 @@
+rootProject.name = 'api'
+include 'module-api'
+include 'module-oauth2'
+include 'module-jdbc'
+
